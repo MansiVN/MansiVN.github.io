@@ -184,6 +184,7 @@ body{
 .list-item {
   line-height: 4;
   color:white;
+  width:fit-content;
 }
 
 .contact-text {
@@ -193,15 +194,15 @@ body{
 }
 
 .place {
-  margin-left: 62px;
+  margin-left: 43px;
 }
 
 .phone {
-  margin-left: 56px;
+  margin-left: 40px;
 }
 
 .gmail {
-  margin-left: 53px;
+  margin-left: 40px;
 }
 
 .contact-text a {
